@@ -1,3 +1,5 @@
+#Oración Git nuestro para la misa *Geek*
+
 *Git* nuestro que estas en los repos
 
 Comprimidos sean tus *commits*
